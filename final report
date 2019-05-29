@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Week 14</h1>
+<h2>RAE 411, spring 2019</h2>
+<h3>Tool: Github, W3schools,<br>Jupytur and Colab. </h3>
+<br>
+<h4>Week 1</h4>
+<ul style="list-style-type:disc;">
+  <li>Introduction to UNIX SHELL.</li>
+  <li>Why SHELL?</li>
+ 
+</ul>  
+    
+
+<hr>
+
+<h4>Week 2</h4>
+<ul style="list-style-type:disc:">
+  <li> Typical tasks to do  - Elementary Statistics</li>
+
+<li>Reverse Engineering approach - consider the given figure (created by R) as a result of graphical representation of DATA VECTOR.</li>
+
+<li>Find that VECTOR.</li>
+</ul>
+
+<hr>
+<h4>Week 3</h4>
+<ul style="list-style-type:disc:">
+    <li>Refreshed Introduction to Course for new-arrived students.</li>
+    <li>Hands-on  experience in UNIX SHELL.</li>
+    <li>Possible hardware-related routing issues in IPv4 communications.</li>  
+    <li>An intuitive approach to solving problems.</li>
+    <li>Secure Terminal Connection to a remote machine (ssh).</li>
+</ul>
+<hr>
+<h4>Week 4</h4>
+<ul style="list-style-type:disc:">
+    <li>Refreshed Introduction to Course for new-arrived students (if any).</li>
+    <li>Students report on Homework (Week 3) (AWK scripts).</li>
+        Start to study manuals for applied UNIX commands and applications (ping, dig, nslookup, tracepath, date, ssh, scp, vim, mc, top, htop,? ...)?<br>
+        Write the script utilizing BASH and AWK for statistical data approval gathered from PING program.<br>
+        Accomplish BASH course on DATACAMP.<br>
+    <li>Continuing with hands-on experience in UNIX SHELL and R programming Language.</li>
+ </ul>
+<hr>
+<h4>Week 6</h4>
+<ul style="list-style-type:disc:">
+<li>Students work on Individual Report</li>
+
+   <a href="tsc.edx.lv/"> Log into tsc.edx.lv</a>
+    In another tab, navigate to http://213.175.92.37:3104
+    Copy Individual variant Figure file to a local computer
+    Copy data vector values to a clipboard
+    In tsc.edx.lv create a new document - MidTerm Exam #1
+    Write report combining scripts utilising R and Python:
+        Include original Figure file into Markdown document
+        Inferential Statistics computing - Average Value or Mean ( X¯) and Standard Deviation ( s) for given Data Set
+        Figure recreation in both programming languages (R and Python)
+    Include Markdown Texts making Report concise and nice looking.
+
+Upload the Report to Assignments section of this Course
+Students install Java SDK on personal Computers
+
+    Short hands-on introduction to Java
+    Links and Guidelines
+
+Microproject in R and Python
+</ul>
+<hr>
+<h4>Week 7</h4>
+<ul style="list-style-type:disc:">
+    <li><a href="https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2019-05-24T11%3A36%3A58.828Z&X-Amz-Signature=3b70448a01c76681f4151481f0a706ae76e53fcb666bcbed527c9fb17b7638cc&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&state=hashArgs%23"> AWS Cloud9</a> is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects. Since your Cloud9 IDE is cloud-based, you can work on your projects from your office, home, or anywhere using an internet-connected machine. Cloud9 also provides a seamless experience for developing serverless applications enabling you to easily define resources, debug, and switch between local and remote execution of serverless applications. With Cloud9, you can quickly share your development environment with your team, enabling you to pair program and track each other's inputs in real time..</li>
+    
+
+    
+ </ul>
+ <hr>
+ <h4>Week 11</h4>
+ <ul style="list-style-type:disc:">
+<p>Create a new personal project on GITHUB: 411-MTP.</p>
+ <br>
+
+<p>Combine Tools: Google Colab Notebook and Linux BASH Terminal.</p>
+<br>
+
+<li>Ping 5 hosts in five different countries (e.g. USA, DE, LV, IN, BR, ME, KO etc.) with a time interval 3 sec.</li>
+<li>Collect responses from 100 pings.</li> 
+<li>Organise Data storage in five columns Pandas Data Frame.</li>
+<li>On the next step, use Pandas DF to retrieve:</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;Data of ping RTT for each country, specifically:</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Average.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;standard deviation.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Variance.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depict  Data using HISTOGRAMS (for each separate country).
+<br>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;In a one Figure Integrated BOXPLOTs.</li> 
+<li>Complete report on GITHUB by amending README.md</li>
+
+<li>Share the Link to Project uploading to Course Commons</li>
+ </ul>
+<hr>
+<h4>Week 13</h4>
+<ul style="list-style-type:disc:">
+<strong><p>Capturing Data Packets in BASH using WIREWSHARK CLI.</p></strong>
+<br>
+<li>Expected Student's Outcome:</li>
+<br>
+
+<li>Page (wiki) on GITHUB revealing Experiment Results in Lab Az12-203
+Start with:</li>
+</ul>
+<br>
+
+<a href=" https://www.wireshark.org/docs/wsug_html_chunked/ChCustCommandLine.html">  https://www.wireshark.org/docs/wsug_html_chunked/ChCustCommandLine.html.</a>
+
+<br>
+
+<p>In Room Az12-203 use tshark or tcpdump and depending on UBUNTU version (seetshark or tcpdumphow the PROMT differs).</p>
+<hr>
+<h4>Week 14</h4>
+<ul style="list-style-type:disc:">
+<li>Summary on Data Visualization packages in Python.</li>
+
+<li>Dynamic Data Presentation.</li>
+<br>
+Useful Links:
+<br>
+<br>
+
+
+<a href="https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b"> https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b</a>
+</ul>
+<hr>
+
+<h4>Week 15</h4>
+<ul style="list-style-type:disc:">
+<strong>Course REPORT on GitHub.</strong>
+<li>Students reflect their achievements including links to other GitHub Repos, Google Colabs, etc.</li>
+<li>Reports have to be structured by weeks in descending order:</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;Week 14</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;Week 13</li>
+&nbsp;&nbsp;&nbsp;&nbsp;...
+<li>&nbsp;&nbsp;&nbsp;&nbsp;Week 1</li>
+<br>
+<strong>Preparing for Examination.</strong>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;Data Capturing, Filtering, Statistical Analysis, and Reporting  (Week 16).</li>
+</ul>
+<hr>
+
+<h4>Week 16</h4>
+<ul style="list-style-type:disc:">
+
+<li>Performance Measures in Telecommunications.</li>
+<br>
+<li>Volume/Time</li>
+
+<li>&nbsp;&nbsp;&nbsp;Data Volume impact on transfer time.</li> 
+
+<li>Data transfer performance measure using "time" command.</li>
+<li>Organise the experiment on two different scales:<li>
+<li>&nbsp;&nbsp;&nbsp;copy files with specified size to another folder in the same system.</li> 
+<li>&nbsp;&nbsp;&nbsp;copy files with specified size to another system over the network using "nc" tool and two distinguished protocols:</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UDP</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCP</li>
+<li>Simultaneously, capture network traffic utilising  TCPDUMP library (bash, Python,  C++, or Java).</li>
+<li>Present Data Flow .</li>
+<br>
+<strong>TODO this week out of the class:</strong>
+<p>Create GITHUB REPO 411-w16 exposing student's work progress.</p>
+<li>Follow the IMRAD scheme:</li>
+<li>&nbsp;&nbsp;&nbsp;Introduce to research questions.</li>
+<li>&nbsp;&nbsp;&nbsp;Describe applied tools, methods, and process.</li>
+<li>&nbsp;&nbsp;&nbsp;Reveal the research process</li>
+<li>&nbsp;&nbsp;&nbsp;Present research results using Data tables and Figures.</li>
+<li>Conclude the report of research.</li>
+<p>Finally, Link REPO 411-w16 to Student's Course REPO.</p>
+
+</ul>
+ 
+ 
+
+
+
+</body>
+</html>
+Lab.txt
+Displaying Lab.txt.
